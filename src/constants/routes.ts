@@ -3,4 +3,5 @@ export const PAGE = {
   twil: "/twil",
   people: "/people",
   typescript: "/typescript",
+  forms: "/forms",
 } as const;
